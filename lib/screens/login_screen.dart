@@ -23,7 +23,7 @@ class LoginScreen extends StatelessWidget {
             end: Alignment.bottomCenter,
             colors: [
               Colors.blueAccent.shade700,
-              Colors.blueAccent.shade400,
+              Colors.blueAccent.shade200,
               Colors.blueAccent.shade100,
             ],
           ),
